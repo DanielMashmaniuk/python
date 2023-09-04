@@ -6,4 +6,6 @@ for current_user in current_users:
         if new_user.lower() == current_user.lower() :
             print('Ви маєте обрати інше імя')
         else :
+            
+            
             print('Це імя вільне')
